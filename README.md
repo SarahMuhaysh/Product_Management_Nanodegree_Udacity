@@ -43,4 +43,4 @@ Your team is tasked with researching the potential costs, features and benefits 
   - Update prototype based on feedback from user interviews
   - Conduct user interviews
 - **Handoff**
-  - Add feature requirements to PRD
+  - Add feature requirements with their priorities to PRD
