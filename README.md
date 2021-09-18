@@ -26,7 +26,7 @@ Your team is tasked with researching the potential costs, features and benefits 
   - Select a strategic theme
 - **Define Phase**
   - Write a future press release review
-  - Define Success Metrics (optional)
+  - Define Success Metrics **(optional)**
 - **Sketch Phase**
   - Create quick sketches to explore and brainstorm ideas
   - Sketch solutions to depict a complete idea across the user journey
@@ -38,7 +38,7 @@ Your team is tasked with researching the potential costs, features and benefits 
 - **Validate Phase**
   - Write a research plan containing participant selection, background questions, tasks, and wrap-up.
   - Conduct user interviews
-  - List topics for feasibility discussion with the engineering team (optional)
+  - List topics for feasibility discussion with the engineering team **(optional)**
 - **Iterate Phase (Optional)**
   - Update prototype based on feedback from user interviews
   - Conduct user interviews
